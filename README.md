@@ -8,6 +8,6 @@ In this repository I will be coding the formulas which are widely used in chemic
 
 
 ** FILE ** --- Arrhenius Equation.ipynb
-** DESCRIPTION** --- This arrhenius equation solver can solve for k and T. If you have a target k then this solver will give you temperature required to reach the target k. This solver also plots the graph between temperature and rate constant.
-** USAGE** --- Run in Jupyter notebook with Python and Numpy installed. Enter the values of k or T for whichever case you want to solve or plot the graph.
+** DESCRIPTION** --- This arrhenius equation solver can solve for k and T. If you have a target k then this solver will give you temperature required to reach the target k. The solver also plots the graph between temperature and rate constant.
+** USAGE** --- Run in Jupyter notebook with Python,Numpy and Matplotlib installed. Enter the values of k or T for whichever case you want to solve or plot the graph.
 
