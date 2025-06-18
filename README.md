@@ -15,5 +15,7 @@ In this repository I will be coding the formulas which are widely used in chemic
 ** DESCRIPTION** --- This module solver solves for Reynolds number(for laminar or turbulent flow), fanning friction factor and pressure drop in pipe.
 ** USAGE** --- Run in Jupyter notebook with Python, math python module, and Scipy installed. Enter the values of parameters required and get the values of Reynolds number, Fanning friction factor, and pressure drop.
 
-
+** FILE ** --- Ideal Batch Reactor.ipynb
+** DESCRIPTION** --- This module solver solves for ideal batch reactor and finds time to reach a specific conversion. 
+** USAGE** --- Run in Jupyter notebook with Python, math python module, and Scipy installed. Enter the given parameters to get the time. 
 
