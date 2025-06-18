@@ -16,6 +16,6 @@ In this repository I will be coding the formulas which are widely used in chemic
 ** USAGE** --- Run in Jupyter notebook with Python, math python module, and Scipy installed. Enter the values of parameters required and get the values of Reynolds number, Fanning friction factor, and pressure drop.
 
 ** FILE ** --- Ideal Batch Reactor.ipynb
-** DESCRIPTION** --- This module solver solves for ideal batch reactor and finds time to reach a specific conversion. 
-** USAGE** --- Run in Jupyter notebook with Python, math python module, and Scipy installed. Enter the given parameters to get the time. 
+** DESCRIPTION** --- This module solver solves for ideal batch reactor and finds time to reach a specific conversion along with concentration after conversion.
+** USAGE** --- Run in Jupyter notebook with Python, math python module, numpy and Scipy installed. Enter the given parameters to get the time to reach the specific conversion along with the final concentration. 
 
