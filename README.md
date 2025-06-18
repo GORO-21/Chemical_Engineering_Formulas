@@ -19,3 +19,7 @@ In this repository I will be coding the formulas which are widely used in chemic
 ** DESCRIPTION** --- This module solver solves for ideal batch reactor and finds time to reach a specific conversion along with concentration after conversion.
 ** USAGE** --- Run in Jupyter notebook with Python, math python module, numpy and Scipy installed. Enter the given parameters to get the time to reach the specific conversion along with the final concentration. 
 
+** FILE ** --- Onda's Relation.ipynb
+** DESCRIPTION** --- This module solver finds the mass transfer coefficient in liquid side (k_L) and plots the graph for k_L vs Liquid Mass flux.
+** USAGE** --- Run in Jupyter notebook with Python, math python module, numpy and Scipy installed. Enter the given parameters to get k_L and graph.
+
